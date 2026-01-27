@@ -7,7 +7,7 @@
 * Telefono: 8714-9157
 
 ### Habilidades Tecnicas
- * Windows | Linux | Bash | MySQL | VirtualBox | Python | Git | GitHub | Microsoft Azure | Diagnóstico de hardware y software | Resolución de problemas técnicos | Gestión de respaldos | Recuperación de datos | Instalación y configuración de dispositivos de red Cisco | Microsoft 365 | HTML | CSS
+ * Windows | Linux | Bash | MySQL | VirtualBox | Python | Java | Git | GitHub | Microsoft Azure | Diagnóstico de hardware y software | Resolución de problemas técnicos | Gestión de respaldos | Recuperación de datos | Instalación y configuración de dispositivos de red Cisco | Microsoft 365 | HTML | CSS
 
 #### Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Daniels2405)](https://git.io/streak-stats)
